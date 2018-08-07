@@ -1,0 +1,49 @@
+* {
+    pad: 0;
+    margin: 0;
+}
+
+body {
+    width: 900px;
+    height: 600px;
+   background-color: rgb(41, 41, 41);
+}
+
+div {
+display: inline-block;
+    width: 180px;
+    height: 180px;
+    
+    vertical-align: top;
+    margin: 8px;
+   
+}
+
+ul li {
+    color:rgb(163, 144, 99);
+    text-decoration: none;
+    text-transform: capitalize;
+    text-align: left;
+    
+}
+
+h2 {
+    font-size: 20px;
+    color: rgb(252, 255, 255);
+    text-transform: uppercase;
+    padding: 8px;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 15px;
+       
+}
+ul {
+    list-style-type: none;
+}
+
+#fourth > span{  
+     size: 6x;
+ width: 15px;
+ height: 25px;
+    color:black;
+   
